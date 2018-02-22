@@ -18,7 +18,6 @@ library(memisc)
 ```{r echo=FALSE, Load_the_Data}
 # Loading the data
 
-setwd('C:\\DataAnalysis\\4. Exploratory Data Analysis\\Project\\')
 wine <- read.csv("wineQualityReds.csv")
 
 ```
