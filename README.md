@@ -1,6 +1,8 @@
 # Red Wine Quality
 
-Using RStudio to analyze the relatioship between chemical properties and wine quality
+I used RStudio to analyze the chemical properties that influence the quality perception of red wines, using a dataset with 1599 observations composed of 11 chemical properties and a rating.
+
+I did this project as part of the Exploratory Data Analysis course, from the Data Analyst Nanodegree I took at Udacity.
 
 ## Requisites
 
