@@ -4,6 +4,10 @@ I used RStudio to analyze the chemical properties that influence the quality per
 
 I did this project as part of the Exploratory Data Analysis course, from the Data Analyst Nanodegree I took at Udacity.
 
+## Note about the red_wine_AZ.hltml file
+
+This file is too large to be displayed on GitHub and it contains the report with the Data Analysis and all the visualizations I created. To see this file, clone the repository and open it from your local computer or run the red_wine_AZ.Rmd file on RStudio.
+
 ## Requisites
 
 RStudio
